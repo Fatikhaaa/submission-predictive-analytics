@@ -615,4 +615,4 @@ Proyek ini berhasil menjawab problem statement dan mencapai goals yang telah dit
 
 ## Hasil Review Proyek
 
-![Hasil Review](image/hasil-review.png)
+![Hasil Review](image/hasil-review.jpg)
