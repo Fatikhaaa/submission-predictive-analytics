@@ -605,9 +605,14 @@ Untuk hasil prediksi, terlihat nilai terdekat dari nilai sesungguhnya (0) adalah
 Proyek ini berhasil menjawab problem statement dan mencapai goals yang telah ditentukan. Pengembangan model machine learning untuk mendeteksi penyakit Hepatitis C telah berhasil dilakukan dengan menggunakan data medis dari hasil pemeriksaan darah, yang meliputi kadar ALB (Albumin), ALP (Alkaline Phosphatase), ALT (Alanine Aminotransferase), Aspartate Aminotransferase (AST), BIL (Bilirubin), CHE (Cholinesterase), CHOL (Cholesterol), CREA (Creatinine), GGT (Gamma-Glutamyl Transferase), dan PROT (Protein Total). Modelling dilakukan dengan menggunakan beberapa algoritma seperti Random Forest, Decision Tree, Logistic Regression, dan KNN. Hasil evaluasi menunjukkan bahwa model Random Forest memberikan performa terbaik dalam mendeteksi status penyakit Hepatitis C, dengan hasil akurasi, precision, recall, dan F1-score yang tinggi. Model ini dapat diterapkan untuk diagnosis dini dengan waktu yang lebih cepat, meningkatkan efisiensi diagnosis dan pengobatan. Selain itu, membantu tenaga medis dalam memberikan langkah-langkah preventif yang lebih efektif dan mengendalikan penyebaran hepatitis.
 
 
-### Referensi
+## Referensi
 [1] T. Jimmy, and P. Valentino, "Penentuan Jalur Diagnostik Penyakit Berbasis Konsep Pembelajaran Mesin: Studi kasus Penyakit Hepatitis C," *Journal of Applied Computer Science and Technology*, Vol. 4, No. 2, 2023, DOI: https://doi.org/10.52158/jacost.v4i2.556.
 [2] K. S. Putri, "Epidemiologi Hepatitis C," Alomedika, Accessed: May. 19, 2025 [Online], Available: https://www.alomedika.com/penyakit/gastroenterologi/hepatitis-c/epidemiologi.
 [3] The World Health Organization, "Laporan WHO Mengungkapkan Peningkatan Kematian Global Akibat Virus Hepatitis," Accessed: May. 19, 2025 [Online], Available: https://pedulihatibangsa.id/2024/06/08/laporan-who-mengungkapkan-peningkatan-kematian-global-akibat-virus-hepatitis/.
 [4] S. Nabilah, G. R. Nur, "Analisis SMOTE Pada Klasifikasi Hepatitis C Berbasis Random Forest dan Naïve Bayes,"  *Journal of Information Technology and Computer Science*, Vol. 8, No. 1, 2023, Hal. 33 – 40, DOI: http://publishing-widyagama.ac.id/ejournal-v2/index.php/jointecs.
 [5] R. Ahmad, "Penerapan Random Forest Untuk Prediksi Virus Hepatitis C," *Journal of Information Systems and Technology*, Vol. 1, No. 1, 2024, DOI: https://ejournal.katersipublisher.com/index.php/FIMERKOM/article/view/48/15.
+
+
+## Hasil Review Proyek
+
+![Hasil Review](image/hasil-review.png)
